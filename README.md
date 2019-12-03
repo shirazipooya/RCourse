@@ -1,2 +1,2 @@
 # RCourse
-R Course
+Learn R Programming
